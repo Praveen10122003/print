@@ -1,0 +1,8 @@
+print("hello man where are you")
+{
+void main()
+int a,b;
+a=10;
+b=50;
+print(a+b)
+}
